@@ -18,5 +18,21 @@ img
   margin: auto;
 }
 
+ol
+{
 
+  margin-left: 850px;
+  text-align: left;
+}
+ul
+{
+  
+  margin-left: 850px;
+  text-align: left;
+}
+
+li
+{
+  margin: 10px;
+}
 
