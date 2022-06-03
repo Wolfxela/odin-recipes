@@ -1,6 +1,14 @@
 p{
+  
 
   text-align: center;
+  
+
+}
+
+a
+{
+  color:blue
 
 }
 
@@ -10,6 +18,12 @@ h3,
 h4,
 h5{
   text-align: center;
+}
+
+h3
+{
+  
+  color:darkmagenta
 }
 
 img
@@ -34,5 +48,10 @@ ul
 li
 {
   margin: 10px;
+}
+
+html
+{
+  background-color: rgb(247, 206, 213);
 }
 
